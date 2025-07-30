@@ -32,14 +32,8 @@
 git clone https://github.com/tuusuario/ajedrez-java-gui.git
 cd ajedrez-java-gui
 2. Compila el código
-bash
-Copiar
-Editar
 javac src/*.java
 3. Ejecuta el programa
-bash
-Copiar
-Editar
 java -cp src Main
 📦 También puedes importar el proyecto directamente en Eclipse, IntelliJ IDEA o tu IDE favorito.
 ```
