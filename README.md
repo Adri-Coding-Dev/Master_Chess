@@ -37,16 +37,16 @@ javac src/*.java
 java -cp src Main
 📦 También puedes importar el proyecto directamente en Eclipse, IntelliJ IDEA o tu IDE favorito.
 ```
-🎮 Cómo jugar
-Haz clic sobre una pieza para seleccionarla.
+## 🎮 Cómo jugar
+### Haz clic sobre una pieza para seleccionarla.
 
-Haz clic en una casilla destino para mover, si es valido el movimiento, la casilla final de la pieza sera verde.
+### Haz clic en una casilla destino para mover, si es valido el movimiento, la casilla final de la pieza sera verde.
 
-El juego alterna entre turno blanco y turno negro.
+### El juego alterna entre turno blanco y turno negro.
 
-¡Captura al rey enemigo y gana la partida!
+### ¡Captura al rey enemigo y gana la partida!
 
-✨ Ideas para futuras versiones
+## ✨ Ideas para futuras versiones
 🤖 Modo contra IA (inteligencia artificial)
 
 ♚ Guardado y carga de partidas
