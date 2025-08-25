@@ -1,6 +1,14 @@
 # ♟️ Ajedrez en Java con Interfaz Gráfica
 
 > Un elegante y completo juego de ajedrez hecho en Java con interfaz gráfica. Ideal para jugar contra otro jugador humano en el mismo equipo. ¡Diseño atractivo, experiencia fluida y completamente funcional!
+## 📖 Tabla de Contenidos
+- [Características](#-características)
+- [Instalación](#-instalación)
+- [Uso](#-uso)
+- [Capturas](#-capturas)
+- [Tecnologías](#-tecnologías)
+- [Estructura del proyecto](#-estructura)
+- [Licencia](#-licencia)
 
 ## 🧩 Características
 
@@ -13,18 +21,7 @@
 ✅ Reinicio de partida con un solo clic  
 
 ---
-
-## 🖥️ Capturas de pantalla
-
-(También, puedes descargarlas de mi repositorio)
-
-## 🛠️ Tecnologías utilizadas
-
-- Java 8+  
-- Swing (javax.swing)  
-- POO (Programación Orientada a Objetos)
-
-## 🚀 Cómo ejecutar el proyecto
+## 🚀 Instalacion
 
 ### 1. Clona el repositorio
 
@@ -37,27 +34,26 @@ javac src/*.java
 java -cp src Main
 📦 También puedes importar el proyecto directamente en Eclipse, IntelliJ IDEA o tu IDE favorito.
 ```
-## 🎮 Cómo jugar
-### Haz clic sobre una pieza para seleccionarla.
+---
+## 🚀 Uso
+```bash
+- Abre tu IDE de preferencia
+- Importa el proyecto dentro del IDE
+- Ejecuta el Main
+- Selecciona una opcion de colores de tablero
+- Juega y diviertete
+```
+## 🖥️ Capturas de pantalla
 
-### Haz clic en una casilla destino para mover, si es valido el movimiento, la casilla final de la pieza sera verde.
 
-### El juego alterna entre turno blanco y turno negro.
+## 🛠️ Tecnologías utilizadas
 
-### ¡Captura al rey enemigo y gana la partida!
+- Java 8+  
+- Swing (javax.swing)  
+- POO (Programación Orientada a Objetos)
+- 
 
-## ✨ Ideas para futuras versiones
-🤖 Modo contra IA (inteligencia artificial)
-
-♚ Guardado y carga de partidas
-
-🔁 Soporte para deshacer movimientos
-
-🌐 Juego en red (multijugador online)
-
-🎨 Temas visuales y skins para piezas
-
-💡 Estructura del proyecto
+## 💡 Estructura del proyecto
 ```bash
 Ajedrez-Master/
 │
@@ -85,8 +81,10 @@ Ajedrez-Master/
 │
 └── README.md
 ```
-👤 Autor
-Adrián Velasco
-💻 Desarrollador Java y web, con alta curiosidad en la ciberseguridad.
-📫 Contacto: adricoding647@gmail.com
+## 📜 Licencia
 
+![GitHub license](https://img.shields.io/github/license/Adri-Coding-Dev/Master_Chess)
+![Made with Java](https://img.shields.io/badge/Made%20with-Java-blue)
+
+MIT License
+Copyright (c) 2025 Adri-Coding-Dev
