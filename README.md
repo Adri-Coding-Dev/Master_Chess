@@ -43,7 +43,7 @@ java -cp src Main
 - Selecciona una opcion de colores de tablero
 - Juega y diviertete
 ```
-## 🖥️ Capturas de pantalla
+## 🖥️ Capturas
 ### Seleccion de los colores del Tablero
 ![Seleccion del Tablero](docs/Menu_Seleccion.png)
 ### Tablero Seleccionado
@@ -57,7 +57,7 @@ java -cp src Main
 ### Otro Tablero
 ![Otro Tablero](docs/Otro_Color_Tablero.png)
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías
 
 - Java 8+  
 - Swing (javax.swing)  
