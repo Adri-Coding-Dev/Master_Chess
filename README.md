@@ -19,7 +19,6 @@
 ✅ Soporte para coronación de peones  
 ✅ Tablero interactivo (click en piezas y casillas)  
 ✅ Colores personalizables  
-✅ Reinicio de partida con un solo clic  
 ---
 
 ## 🚀 Instalación
@@ -71,7 +70,7 @@ java -cp src Main
 - POO (Programación Orientada a Objetos)
 ---
 
-## 💡 Estructura del proyecto
+## 💡 Estructura
 
 ```bash
 Ajedrez-Master/
