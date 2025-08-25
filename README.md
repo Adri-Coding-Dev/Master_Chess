@@ -21,7 +21,7 @@
 ✅ Reinicio de partida con un solo clic  
 
 ---
-## 🚀 Instalacion
+## 🚀 Instalación
 
 ### 1. Clona el repositorio
 
@@ -44,14 +44,24 @@ java -cp src Main
 - Juega y diviertete
 ```
 ## 🖥️ Capturas de pantalla
-
+### Seleccion de los colores del Tablero
+![Seleccion del Tablero](docs/Menu_Seleccion.png)
+### Tablero Seleccionado
+![Tablero Color 1](docs/Tablero.png)
+### Movimiento de las piezas
+![Prueba Movimiento](docs/Movimiento_Base.png)
+### Seleccion de la ficha (cuando el peon llega a la otra parte)
+![Seleccion de Ficha](docs/Llegada_Peon_Fin_Tablero.png)
+### Game Over Screen
+![Fin Juego](docs/Game_Over.png)
+### Otro Tablero
+![Otro Tablero](docs/Otro_Color_Tablero.png)
 
 ## 🛠️ Tecnologías utilizadas
 
 - Java 8+  
 - Swing (javax.swing)  
 - POO (Programación Orientada a Objetos)
-- 
 
 ## 💡 Estructura del proyecto
 ```bash
