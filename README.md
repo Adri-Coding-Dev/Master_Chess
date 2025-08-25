@@ -9,6 +9,7 @@
 - [Tecnologías](#-tecnologías)
 - [Estructura del proyecto](#-estructura)
 - [Licencia](#-licencia)
+---
 
 ## 🧩 Características
 
@@ -19,8 +20,8 @@
 ✅ Tablero interactivo (click en piezas y casillas)  
 ✅ Colores personalizables  
 ✅ Reinicio de partida con un solo clic  
-
 ---
+
 ## 🚀 Instalación
 
 ### 1. Clona el repositorio
@@ -35,7 +36,9 @@ java -cp src Main
 📦 También puedes importar el proyecto directamente en Eclipse, IntelliJ IDEA o tu IDE favorito.
 ```
 ---
+
 ## 🚀 Uso
+
 ```bash
 - Abre tu IDE de preferencia
 - Importa el proyecto dentro del IDE
@@ -43,7 +46,10 @@ java -cp src Main
 - Selecciona una opcion de colores de tablero
 - Juega y diviertete
 ```
+---
+
 ## 🖥️ Capturas
+
 ### Seleccion de los colores del Tablero
 ![Seleccion del Tablero](docs/Menu_Seleccion.png)
 ### Tablero Seleccionado
@@ -56,14 +62,17 @@ java -cp src Main
 ![Fin Juego](docs/Game_Over.png)
 ### Otro Tablero
 ![Otro Tablero](docs/Otro_Color_Tablero.png)
+---
 
 ## 🛠️ Tecnologías
 
 - Java 8+  
 - Swing (javax.swing)  
 - POO (Programación Orientada a Objetos)
+---
 
 ## 💡 Estructura del proyecto
+
 ```bash
 Ajedrez-Master/
 │
@@ -91,6 +100,8 @@ Ajedrez-Master/
 │
 └── README.md
 ```
+---
+
 ## 📜 Licencia
 
 ![GitHub license](https://img.shields.io/github/license/Adri-Coding-Dev/Master_Chess)
