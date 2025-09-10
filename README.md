@@ -2,8 +2,8 @@
 
 > Un elegante y completo juego de ajedrez hecho en Java con interfaz gráfica. Ideal para jugar contra otro jugador humano en el mismo equipo. ¡Diseño atractivo, experiencia fluida y completamente funcional!
 ## 📖 Tabla de Contenidos
-- [Características](#-características)
-- [Instalación](#-instalación)
+- [ 🧩 Características](#-características)
+- [ 🚀 Instalación](#-instalación)
 - [Uso](#-uso)
 - [Capturas](#-capturas)
 - [Tecnologías](#-tecnologías)
