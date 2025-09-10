@@ -4,11 +4,11 @@
 ## 📖 Tabla de Contenidos
 - [ 🧩 Características](#-características)
 - [ 🚀 Instalación](#-instalación)
-- [Uso](#-uso)
-- [Capturas](#-capturas)
-- [Tecnologías](#-tecnologías)
-- [Estructura del proyecto](#-estructura)
-- [Licencia](#-licencia)
+- [ 🚀 Uso](#-uso)
+- [ 🖥️ Capturas](#-capturas)
+- [ 🛠️ Tecnologías](#-tecnologías)
+- [ 💡 Estructura](#-estructura)
+- [ 📜 Licencia](#-licencia)
 ---
 
 ## 🧩 Características
